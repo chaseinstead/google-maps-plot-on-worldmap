@@ -2,6 +2,5 @@ mpl_toolkits.basemap
 matplotlib.pyplot
 json
 datetime
-time
 numpy
 ast

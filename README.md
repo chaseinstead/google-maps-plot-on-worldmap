@@ -1,7 +1,7 @@
 # google maps location history plotter
 creates a path out of collected google maps location history and shows you what google knows about you.
 
-![output preview](/output_examples/output_preview.jpgf?raw=true)
+![output preview](/output_examples/output_preview.jpg)
 
 this is very much a work in progress
 

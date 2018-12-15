@@ -1,5 +1,5 @@
 # google maps location history plotter
-creates a path out of collected google maps location history and shows you what google knows about you.
+creates a path out of collected google maps location history and, by this, shows you what google knows about you.
 
 ![output preview](/output_examples/output_preview.jpg)
 
@@ -9,7 +9,7 @@ this is very much a work in progress
 ```
 pip install -r requirements.txt
 ```
-the plotter needs a .json file with location data that google maps collects with the help your phone - most likely [whether you want it or not](https://www.independent.co.uk/news/world/americas/google-location-data-privacy-android-sundar-pichai-a8490636.html). you can [download your own location history here](https://takeout.google.com/settings/takeout) and save it in the same folder as "location_history_plotter.ipynb", which is where the plot is created.
+the plotter needs a .json file with location data that google maps collects with the help your phone - most likely [whether you want it or not](https://www.independent.co.uk/news/world/americas/google-location-data-privacy-android-sundar-pichai-a8490636.html). you can [download your own location history here](https://takeout.google.com/settings/takeout). please save it in the same folder as "location_history_plotter.ipynb".
 
 # to do
 - increase readability: the code is still chaotic (esp. intertwining of functions)
